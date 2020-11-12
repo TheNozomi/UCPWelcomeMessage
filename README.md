@@ -13,6 +13,7 @@ Fandom's Feeds messages are stored in their backend as a very limited subset of 
 
 For each Markdown template file, the first line will be the message title. Following lines will be part of the message content, and these placeholders are available for substitution:
 `$1`: Name of the user that edited
+
 `$2`: The page edited
 
 For example, the following template:

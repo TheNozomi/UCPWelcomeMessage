@@ -1,0 +1,25 @@
+{
+  "name": "WelcomeBot",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "module": "src/index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "TheNozomi <13172293+TheNozomi@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0",
+    "esm": "^3.2.25",
+    "md-to-adf": "^0.6.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}

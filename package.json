@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.0",
-    "dotenv": "^8.2.0",
+    "dotenv": "^14.3.2",
     "esm": "^3.2.25",
     "md-to-adf": "^0.6.4"
   },
